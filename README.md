@@ -1,1 +1,1 @@
-# Computational_modeling_of_electrical_stimulation
+# Computational modeling of electrical stimulation
